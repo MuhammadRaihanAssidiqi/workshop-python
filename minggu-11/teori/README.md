@@ -1937,7 +1937,7 @@ Simpan Key Secret kedalam file venv/var/flaskr-instance/config.py
 ```py
 SECRET_KEY = '192b9bdd22ab9ed4d12e236c78afcb9a393ec15f71bbf5dc987d54727823bcbf'
 ```
-## Menajlankan Production Server
+## Menjalankan Production Server
 Jalankan perintah 
 ```
 $ pip install waitress
